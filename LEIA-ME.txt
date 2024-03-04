@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------------------------------------
+                                                  COMO FAZER USO
+--------------------------------------------------------------------------------------------------------------
+1º Utilize o Bot Posição do mouse para pegar as coordenadas de onde o sistema deve clicar.
+2º Adicione as coordenadas no arquivo config da seguinte maneira: 
+	campoCodigoInterno = valor_x, valor_y
+	campoEscreverEstoque = valor_x, valor_y
+	btnAlterar = valor_x, valor_y
+
+3º Adicione os códigos internos e quantidades de produtos no arquivo relatorio, localizado na pasta relatorio.
+4º No sistema principal, abra a aba de produtos.
+5º O bot jé poderá ser inicializado.
+
+
+--------------------------------------------------------------------------------------------------------------
+                                                    OBSERVAÇÕES
+--------------------------------------------------------------------------------------------------------------
+1º Caso o arquivo relatorio.xlsx não exista, o bot não funcionará corretamente
+2º Caso ocorra algum travamento durante a execução do sistema e seja necessário reiniciar o bot, 
+   você pode abrir o arquivo codigos_alterados.txt, e ele lhe informará qual o último código usado pelo bot.
+

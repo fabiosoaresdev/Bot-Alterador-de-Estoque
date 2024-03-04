@@ -1,0 +1,3 @@
+campoCodigoInterno = 
+campoEscreverEstoque = 
+btnAlterar = 

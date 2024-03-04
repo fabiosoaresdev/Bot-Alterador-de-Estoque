@@ -1,0 +1,3 @@
+campoCodigoInterno = 70, 220
+campoEscreverEstoque = 810, 450
+btnAlterar = 900, 210
